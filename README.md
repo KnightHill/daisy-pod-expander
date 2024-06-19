@@ -14,6 +14,9 @@ Firmware, KiCad 7 project and Gerber files included.
 - 1 [tactile switch](https://www.amazon.com/QTEATAK-Momentary-Tactile-Button-Switch/dp/B07VSNN9S2/)
 - 1 [OLED SPI display (SSD1306)](https://www.amazon.com/HiLetgo-Serial-128X64-Display-Color/dp/B01MQPQF24/)
 
+## PCB
+![PCB](img/pod_exp2.jpg)
+## Populated board
 ![OLED Expander v1.1](img/oled2.jpg)
 
  # Disclamer
